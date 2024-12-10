@@ -2,7 +2,8 @@
 
 The CUNNY - AI Learning Navigator for Youth project introduces children aged 10-15 to AI through an interactive Android app. Focused on Convolutional Neural Networks (CNNs), it provides theoretical content and hands-on image classification tasks. Users can upload images to see how AI processes and classifies them. Future updates will include NLP and GANs to broaden the learning experience. Hosted on Google Cloud Platform, the app ensures scalability, secure data management, and a fun learning journey.
 
-## OurTeam
+
+## OurTeam C242-PS068
 
 1. M183B4KY1066 – Devin Branwen – Universitas Amikom Yogyakarta
 2. M315B4KX4628 – Zona Diatri – Universitas Sriwijaya
