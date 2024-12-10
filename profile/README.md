@@ -5,13 +5,15 @@ The CUNNY - AI Learning Navigator for Youth project introduces children aged 10-
 
 ## OurTeam C242-PS068
 
-1. M183B4KY1066 – Devin Branwen – Universitas Amikom Yogyakarta
-2. M315B4KX4628 – Zona Diatri – Universitas Sriwijaya
-3. M183B4KY1425 – Farrel Zhafif Kusumadhana – Universitas Amikom Yogyakarta
-4. C627B4KY0642 – Arif Pandu Hidayatulloh – Institut Teknologi Dirgantara Adisutjipto
-5. C211B4KY3696 – Rasta Maulana – Universitas Indraprasta PGRI
-6. A183B4KY2956 – Muhammad Native Muttaqien Kurniadi – Universitas Amikom Yogyakarta
-7. A183B4KY0191 – Ahmad Aldiyanto – Universitas Amikom Yogyakarta
+| Bangkit ID   | Name     | Learning Path | University  |
+| ---          | ---      | ---           | ---         |
+| M183B4KY1066 | Devin Branwen | Machine Learning | Universitas Amikom Yogyakarta |
+| M315B4KX4628 | Zona Diatri | Machine Learning | Universitas Sriwijaya |
+| M183B4KY1425 | Farrel Zhafif Kusumadhana | Machine Learning | Universitas Amikom Yogyakarta |
+| C627B4KY0642 | Arif Pandu Hidayatulloh | Cloud Computing | Institut Teknologi Dirgantara Adisutjipto |
+| C211B4KY3696 | Rasta Maulana | Cloud Computing | Universitas Indraprasta PGRI |
+| A183B4KY2956 | Muhammad Native Muttaqien Kurniadi | Mobile Development | Universitas Amikom Yogyakarta |
+| A183B4KY0191 | Ahmad Aldiyanto | Mobile Development | Universitas Amikom Yogyakarta |
 
 ## Repository
 1. [Mobile Development](https://github.com/Kucing-Gelinding/MOBILE-DEVELOPMENT)
